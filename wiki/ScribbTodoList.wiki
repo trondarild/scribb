@@ -1,5 +1,6 @@
 #summary Todo list
 #labels Phase-Implementation
 
-* implement export to google notebook
-* create CSS layout
+=Todo list=
+  * implement export to google notebook
+  * create CSS layout
